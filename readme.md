@@ -1,4 +1,4 @@
-### Class:
+# Class:
 
         In javaScript class is type of function.
 
@@ -42,9 +42,9 @@ alert(Object.getOwnPropertyNames(User.prototype)); // constructor, sayHi
 
 ## Note:
 
-# Another name for lexical scope is static scope.
+### Another name for lexical scope is static scope.
 
-# The place an item got invoked (or called) is not necessarily the item's lexical scope. Instead, an item's definition space is its lexical scope.
+### The place an item got invoked (or called) is not necessarily the item's lexical scope. Instead, an item's definition space is its lexical scope.
 
 ## Example of Lexical Scope
 
